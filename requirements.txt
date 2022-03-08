@@ -1,2 +1,2 @@
 ipython==7.28.0
-numpy==1.22.3
+numpy==1.21.5
