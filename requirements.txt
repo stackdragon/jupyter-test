@@ -2,3 +2,4 @@ nose
 ipython
 numpy
 scipy
+matplotlib
