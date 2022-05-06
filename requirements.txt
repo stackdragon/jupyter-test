@@ -3,3 +3,4 @@ ipython
 numpy
 scipy
 matplotlib
+pandas
